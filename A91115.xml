@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prospect of bleeding Irelands miseries presented in a brief recitement to the eyes and hearts of all her commiserating friends in England and Scotland, as one maine motive to move their Christian courage for her assistance, when we consider there hath been at the least two hundred thousand Protestants slain and most inhumanely massacred by the barbarous and blood-thirsty rebels, putting them to the most cruell kinds of death they could invent, as you may read by this following relation. Diligently collected from the most certain intelligence.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91115</idno>
+            <idno type="STC">Wing P3805</idno>
+            <idno type="STC">Thomason 669.f.11[4]</idno>
+            <idno type="STC">ESTC R210404</idno>
+            <idno type="EEBO-CITATION">99869208</idno>
+            <idno type="PROQUEST">99869208</idno>
+            <idno type="VID">162655</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162655)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f11[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prospect of bleeding Irelands miseries presented in a brief recitement to the eyes and hearts of all her commiserating friends in England and Scotland, as one maine motive to move their Christian courage for her assistance, when we consider there hath been at the least two hundred thousand Protestants slain and most inhumanely massacred by the barbarous and blood-thirsty rebels, putting them to the most cruell kinds of death they could invent, as you may read by this following relation. Diligently collected from the most certain intelligence.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H. and are to be sold in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 16th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:162655:1" rendition="simple:additions"/>
+            <head>A Proſpect of bleeding IRELANDS miſeries: Preſented in a Brief Recitement to the eyes and hearts of all her commiſerating friends in <hi>England</hi> and <hi>Scotland,</hi> as one maine Motive to move their Chriſtian courage for her aſsiſtance, when we conſider there hath been at the leaſt two hundred thouſand Proteſtants ſlain and moſt inhumanely maſſacred by the barbarous and blood-thirſty Rebels, putting them to the moſt cruell kinds of death that they could invent, as you may read by this following Relation. Diligently Collected from the moſt certain Intelligence.</head>
+            <epigraph>
+               <q>Recompence unto them double what they have done unto others.</q>
+            </epigraph>
+            <figure>
+               <head>IRELANDES LAMENTATION</head>
+            </figure>
+            <p>REader what paſſages of cruelty thou ſhalt here peruſe thou haſt not the leaſt cauſe to ſuſpect of truth, they being ſuch as by clear evidence have bin made manifeſtly true by faithfull Intelligence of eye and eare witneſſes.</p>
+            <p n="1">1. Within the County of Fermanagh great cruelties have been acted upon the poor Engliſh Proteſtants where multitudes of men women and children have been kill'd in cold blood.</p>
+            <p n="2">2. In the Caſtle of Liſgoole there were above one hundred and fifty men, women, and children, burnt there when that Caſtle was ſet on fire.</p>
+            <p n="3">3. At the Caſtle of Moneah about one hundred Engliſh were ſlain by the Barba<g ref="char:EOLhyphen"/>rous Rebels.</p>
+            <p n="4">4. The Caſtle of Tullah being yeelded upon compoſition with promiſe of fair quar<g ref="char:EOLhyphen"/>ter from the Rebells, but as ſoon as ever they entred the ſame they put all to the ſword without exception.</p>
+            <p n="5">5. At Liſſenskeah they murthered near one hundred of the Scotch Proteſtants, which they uſe in every place as cruelly as the Eng<g ref="char:EOLhyphen"/>liſh.</p>
+            <p n="6">6. One Mr. Middleton they compeld to heare Maſs and after ward they cauſed him his wife and children to be hanged up and murthered.</p>
+            <p n="7">7. In the Countys of Armagh and Ti<g ref="char:EOLhyphen"/>rone great and Barbarous cruelties have been exerciſed.</p>
+            <p n="8">8. At one place there were carried out at ſeverall times in Troops one thouſand Pro<g ref="char:EOLhyphen"/>teſtants, which were drowned at the bridg of Portnedown, which for that purpoſe was broke down in the midſt.</p>
+            <p n="9">9. And within the County of Armagh foure thouſand Proteſtants have in ſeverall places been drowned.</p>
+            <p n="10">10. The Proteſtants have been driven naked before theſe Barbarous Butchers in ſeverall companies like ſheep appoynted for the ſlaughter, to the places of execution.</p>
+            <p n="11">11. And if any faynted or grew weary on the way, they prickt them forward with their ſword poynts whereby they killed many on the way.</p>
+            <p n="12">12. With their Pikes and ſwords they <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſt the poor ſtript Chriſtians into the wa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rom of the Banks, or Bridges.</p>
+            <p n="13">13. Thoſe that aſſay by ſwiming to ſave their lives, they ſhoot or beat out their brains.</p>
+            <p n="14">14. Sir Phellim Oneal hath proved the chief actor of theſe Barborous and bloody maſſacres.</p>
+            <p n="15">15. He having cauſed all the Proteſtants in Armagh and there abouts under prerence of conducting them murthered of young and old five hundred perſons.</p>
+            <p n="16">16. He cauſed the Town of Armagh, and Cathedrall Church to be fired which were burnt down.</p>
+            <p n="17">17. At a town called Killaman, fourty and eight families were Murthered by his direct<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="18">18. In the ſame town there were twenty too Engliſh Proteſtants Burnt in one houſe.</p>
+            <p n="19">19. Within two miles of the ſame the Rebels murthered of Engliſh two hundred Families.</p>
+            <p n="20">20. They have been ſo eager at their prey, that they would not ſuffer the poor Proteſtants to ſay their prayers before they murthered them.</p>
+            <p n="21">21. They have impriſioned ſome in noy<g ref="char:EOLhyphen"/>ſome dungeons of dirt and mire, with bolts on their leggs where they were ſtarved to death by Leaſure.</p>
+            <p n="22">22. At Caſſell the Rebels cruelly mur<g ref="char:EOLhyphen"/>thered fifteen Engliſh Proteſtants uſing the reſt moſt barbarouſly.</p>
+            <p n="23">23. They have moſt Barbarouſly mangled many Proteſtants and left them languiſhing in their payn in the high ways half dead ac<g ref="char:EOLhyphen"/>counting it to favourable to end them of their payn by a ſuddain death.</p>
+            <p n="24">24. They have buried many alive both men women and poor harmleſs infants.</p>
+            <p n="25">25. At one time at a town called Clow<g ref="char:EOLhyphen"/>nis, they buried ſeventeen perſons which they had half hanged which were heard to ſend forth Lamentable groans.</p>
+            <p n="26">26. After they had cruelly wounded ſome they hung them upon tenter hooks.</p>
+            <p n="27">27. Others when they had put rops about their necks they dragged through the water.</p>
+            <p n="28">28. Some they dragged through the woods and Boggs till they dyed.</p>
+            <p n="29">29. They have put ropes about the necks of many and caſt them ſeveral times into the water, wherby to cauſe them to confeſs where their moneys were.</p>
+            <p n="30">30. They have hanged up ſome a ſmall time, and then taken them down again, to make them confeſs where their money was, which when they told them, then they hang<g ref="char:EOLhyphen"/>ed them outright.</p>
+            <p n="31">31. When they have ſtript the Proteſt<g ref="char:EOLhyphen"/>ants naked, they bid them go look for their God, and bid him cloth them again.</p>
+            <p n="32">32. They have hung up Engliſh by the armes and then hackt them with their ſwords to try how many blows they would indure before they dyed.</p>
+            <p n="33">33. Some have had their bellys ript up and ſo left with their Intrails taken out.</p>
+            <p n="34">34. They have ript up women big with child, and the young Infants hath falled out, which the Rebells have often given to doggs, and ſwine to eat or caſt into ditches.</p>
+            <p n="35">35. The Rebells robb'd, ſtript, and mur<g ref="char:EOLhyphen"/>thered a great company of Proteſtants in the County of Armagh, ſome they burnt, ſome they ſlew by the ſword, and ſome they hang<g ref="char:EOLhyphen"/>ed, others they ſtarved and put to death more cruelly.</p>
+            <p n="37">37. They have hanged ſome by the heels, and then with their skeans cut them in peeces</p>
+            <p n="38">38. Some young Infants have been found in the feild, Sucking the Breſts of their mur<g ref="char:EOLhyphen"/>thered Mothers.</p>
+            <p n="39">39. A great number of Proteſtants eſpe<g ref="char:EOLhyphen"/>cially of women and children, they haveſlaſht &amp; mangled in many places of their bodies, and not kill'd outright, but left them wallowing in their blood.</p>
+            <p n="40">40. Denying to kill them outright, till two or three days after, and then they would daſh out their brains with ſtones.</p>
+            <p n="51">51. A woman that leapt our of a window to ſave her ſelf from burning was murthered by the Rebels, and the next morning her child found ſucking at her breaſt which they alſo murthered.</p>
+            <p n="42">42. The Rebels ſtabb'd one Jane Addis, left her ſucking child alive by her, &amp; putting the breaſt into its mouth ſaid ſuck Engliſh baſtard, ſo the child periſht for want, of which Act they bragg'd.</p>
+            <p n="43">43. Many young Infants have been ſtifled in vaults and cellers, or ſtarved in caves which have cryed to their mothers rather to ſend them out to dye by the Rebels then to ſtarve ſo miſerably there.</p>
+            <p n="44">44. Multitudes of men, women, and chil<g ref="char:EOLhyphen"/>dren were drowned, caſt into ditches, boggs, and turf-pits.</p>
+            <p n="45">45. Many have been incloſed in their hou<g ref="char:EOLhyphen"/>ſes which have been ſet on fire and burnt with their houſes to aſhes in a moſt miſerable manner, and if any attempted to eſcape they threw them into the fire again.</p>
+            <p n="46">46. They have dragg'd out ſome from their ſick beds to the place of execution.</p>
+            <p n="47">47. In the pariſh of Loghgall to the ri<g ref="char:EOLhyphen"/>ver of Toll they forced children to carry their aged parents out of their beds to drown them in that river.</p>
+            <p n="48">48. They have enforced children to exe<g ref="char:EOLhyphen"/>cute their parents, and wives their own huſ<g ref="char:EOLhyphen"/>bands by hanging and other ways.</p>
+            <p n="49">49. The wife of Florence Fitz Patrick was outragious with her husbands ſouldiers becauſe they brought not the greaſe of a Pro<g ref="char:EOLhyphen"/>teſtant woman whom they had cruelly mur<g ref="char:EOLhyphen"/>thered for her to make candls withall.</p>
+            <p n="50">50. The Iriſh men ſome of them deteſtnot the cruelty of thoſe bloody queans that fol<g ref="char:EOLhyphen"/>low their camp, that cry our ſpare neither man woman nor child.</p>
+            <p n="51">51. They hav<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> boyld children to death in Cauldrons.</p>
+            <p n="52">52. They hanged a woman and her daugh<g ref="char:EOLhyphen"/>ter in the hair of her own head.</p>
+            <p n="53">53. In a froſty night they ſtript a woman big with child which preſently after fell in la<g ref="char:EOLhyphen"/>bour, and both child and ſhe dyed at the in<g ref="char:EOLhyphen"/>ſtant.</p>
+            <p n="54">54. The Rebels often utter threatnings out to cut off all that have a drop of Engliſh blood in them, and their women cry out that the Engliſh are only meat for doggs.</p>
+            <p n="55">55. Neare the Town of Monaghan, they moſt cruelly murthered one Mr. Foord in his own Garden, moſt inhumanely tortured his wife, Laying hot Tongs to her hands and feet (to make her tell where his money was) that with the payn thereof ſhe died.</p>
+            <p n="56">56. They have moſt villanouſly raviſhed Virgins and women, and afterwards have bin ſo bloody and hard-harted, as to daſh their childrens brains out.</p>
+            <p>Thus have you heard of ſome part of the miſeries and tortures inflicted upon the poor Proteſtants in Ireland, by the bloody Rebels; many more inhumane murthers they have committed, which I forbear for brevity ſake: But ſuch is the care and wiſdom of the Parliament to put an end to the bleeding miſeries of Ireland, that they have choſen that renowned, faithful, and valiant Commander Major General SKIPPON to be Field-Marſhal over their Forces, and Major General MASSEY is choſen Lieutenant General of the horſe, the Lord crown their endeavours with victory over thoſe inhumane blood-thirſty Rebels, that ſo dying Ireland may yet live to praiſe him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. H.</hi> and are to be ſold in <hi>Popes head Alley.</hi> 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
